@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  
+}
+
+.button {
+  height: 30px;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  background-color: transparent;
+  margin-left: 20px;
+  border-radius: 8px;
+}
